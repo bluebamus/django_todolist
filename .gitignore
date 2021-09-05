@@ -1,0 +1,20 @@
+# OS Files #
+*.swp
+
+# python cache #
+*.pyc
+
+# vscode #
+.vscode/
+
+# vscode #
+# media/
+
+# sqlite #
+db.sqlite3
+
+# migrations #
+**/migrations/
+
+# __pycache__ #
+**/__pycache__/
